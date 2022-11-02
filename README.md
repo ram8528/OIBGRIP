@@ -1,2 +1,2 @@
 # OIBGRIP
-Oasis Infobyte Wen Development Task Submission
+Oasis Infobyte Web Development Task Submission
